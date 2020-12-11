@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="vous êtes bien sur le profil de Sacha Sahut">
+	<title>Profil de Sacha</title>
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Texturina:wght@100&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="style.CSS">
+
+</head>
+<body>
+
+	<div class="container" >
+
+		<div class="card-white" style="width: 700px; margin: 20px auto" id="introduction">
+		<h1>Hola soy Sacha 😊</h1>
+	<img src="image.jpg" alt="Sacha Sahut"; class="img-circle shadowed" id="leader" width="200 px"
+	class="text-justify">
+
+
+
+	<p> je suis un jeune étudiant de 18 ans en première année d'école de commerce à la défense. Passionné de sport et de théâtre je suis dynamique et toujours de bonne humeur.</p>
+	<a href="https://www.farfetch.com/fr/shopping/men/items.aspx?utm_source=bing&utm_medium=cpc&utm_keywordid=228102867&utm_term=228102867&isbrand=yes&pid=bingsearch_int&af_channel=Search&c=287547546&af_c_id=287547546&af_siteid=&af_keywords=kwd-84731458216847:loc-1283&af_adset_id=1355697965353559&af_ad_id=&af_sub1=228102867&is_retargeting=true&msclkid=9f1d8b0d33c611c02857d4a68e59f2a8&utm_campaign=Search%3ABing%3AFR%3AFR%3ABrand%3AExact&utm_content=Exact%3A%3ABrand" target="blank"> lien vers le meilleur site de vêtements </a> </div>
+
+		<div class="card-white" style="width: 700px; margin: 20px auto">
+			<h2 class="text-justify"> la boxe thaÏ </h2>
+	<p class="text-justify"> la boxe thai : meilleur sport de tout les temps, a la fois cardio et physique il confert une excellente santé et apprend a son combattant l'art du combat le respect et l'endurance mentale et physique. je la pratique depuis 4 ans et j'invite tout le monde a pratiquer ce merveilleux sport. 😍</p>
+		</div>
+
+		<div class="card-white" style="width: 700px; margin: 20px auto">
+			<h2 class="text-justify"> la motocross </h2>
+	<p class="text-justify"> Ayant également pratiquer la moto cross depuis mon jeune âge je suis un mordu de ce sport mecanique mêlant vitesse et précision, il confert un réel sentiment de liberté.</p>
+
+		</div>
+
+		<div class="card-white" style="width: 700px; margin: 20px auto">
+			<h2 class="text-justify">La bouffe </h2>
+	<p class="text-justify"> Une grande histoire d'amour entre elle et moi ( rien qu'a voir la photo de mon site vous auriez pu vous en douter 😂 laissez vous portez par cette drogue mais avec modération.</p>
+		</div>
+
+		<div class="card-white" style="width: 700px; margin: 20px auto">
+			<h2 class="text-justify"> Rejoignez moi sur mes réseaux sociaux </h2>    
+		<ul> 
+		<li> 
+			<a href= "https://www.facebook.com/sacha.livage.7/" target="blank"> Facebook </a>
+
+
+		</li>
+
+	</ul classe="list-inline">
+		</div>
+	
+	
+
+
+	</div>
+	</body>
+</html>
+
+	
